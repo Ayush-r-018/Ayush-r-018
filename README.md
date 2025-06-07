@@ -82,7 +82,7 @@
 
 ### 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-r-018&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-r-018&layout=compact&theme=tokyonight)
 
 ---
 
