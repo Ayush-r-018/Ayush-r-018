@@ -9,7 +9,7 @@
 - 🎓 I’m currently studying **Computer Engineering**  
 - 💻 I love working on **tech projects** and improving my **coding skills**
 - 🌱 I’m currently learning **Python, C++, and Web Development**
-- 📫 How to reach me: **ayushrauniyar018@gmail.com**
+- 📫 How to reach me: **ayushrauniyarofficial@gmail.com**
 - ⚡ Fun fact: I enjoy solving problems and exploring new technologies 🚀
 
 ---
