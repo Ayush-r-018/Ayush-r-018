@@ -41,8 +41,8 @@
 ---
 
 ### 🏆 AWS Cloud Clubs Generative AI Camper
-
-[![AWS Badge](https://images.credly.com/size/340x340/images/b0e3e30d-6631-4a38-bf2a-5b5c75dfab63/image.png)](https://www.credly.com/badges/ebfe8fe1-8901-4395-ae07-a5b8215d224c/public_url)
+<img src="aws-cloud-clubs-generative-ai-camper.png" width="160" alt="AWS Badge"/>
+<a href="https://www.credly.com/badges/ebfe8fe1-8901-4395-ae07-a5b8215d224c/public_url" target="_blank">View Badge</a>
 
 > Earned by attending and completing the Generative AI Camp hosted by AWS Cloud Clubs.
 
